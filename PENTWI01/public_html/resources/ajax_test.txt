@@ -1,0 +1,3 @@
+<h1>El texto se ha importado desde el archivo ajax_test.txt</h1>
+
+<p id="parrafo">Este texto fue obtenido desde un archivo txt.</p>
